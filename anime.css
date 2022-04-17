@@ -3,7 +3,7 @@ H1 {
     border: 0px 0px 0px 0px;
     margin: 0px 0px 0px 0px;
     text-align: center;
-    background-color: rgb(37, 31, 37);
+    background-color: #151515;
     border-style: inherit;
     font-style: bold;
     padding: 17px 0px 0px 0px;
@@ -12,11 +12,15 @@ H1 {
     overflow: hidden;
     width:100%;
     position:fixed;
-    
+
+    font-size: 2.2rem;
 
 }
 h3{
-    color:rgb(70, 34, 106);
+    color:#301B3F;
+    font-family:verdana;
+    text-decoration:none;
+    
 }
 
 hr {
@@ -27,10 +31,11 @@ hr {
     border-color: black;
     size: 140px;
     width: 25%;
+
 }
 
 body {
-    background-color: #00092C;
+    background-color: #301B3F;
     margin:0;
     
 }
@@ -39,11 +44,11 @@ body {
     max-width: 70%;
     margin: auto;
     padding: 120px;
-    background-color: #DDDDDD;
+    background-color: #ece5ee;
 }
 
 footer {
-    background-color: black;
+    background-color: #112D4E;
     color: white;
     padding: 10px;
     text-decoration-color: none;
@@ -52,9 +57,8 @@ footer {
 a {
     color: black;
 }
-
-b {
-    color: white;
+a :hover{
+    color:red;
 }
 img:hover{
  
@@ -62,6 +66,58 @@ img:hover{
     background-color:rgb(58, 26, 58);
     
 }
+img{
+    padding:5px;
+}
 id{
     color:#DDDDDD;
 }
+p{
+    font-family: 'Akshar';
+    line-height:2;
+    font-weight: 600;}
+.eren{
+    opacity:0.15;
+    display:inline-block;
+    position: absolute;
+    top:33%;
+    left:40%;
+    }
+
+.luffy{
+    opacity:0.15;
+    display:inline-block;
+    position: absolute;
+    top:353%;
+     left:40%
+    }
+ .ryuk{
+        opacity:0.15;
+        display:inline-block;
+        position: absolute;
+        top:116%;
+        left:40%;
+        }
+        .edward{
+            opacity:0.15;
+            display:inline-block;
+            position: absolute;
+            top:210%;
+            left:40%;
+            } 
+            .izuku{
+            
+                    opacity:0.15;
+                    display:inline-block;
+                    position: absolute;
+                    top:290%;
+                    left:40%;
+                    
+            }   
+
+footer{
+        text-align:center;
+       padding: 30px; 
+       background-color: black;
+    }
+               
