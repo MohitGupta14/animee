@@ -1,0 +1,64 @@
+
+H1 {
+    border: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    background-color: rgb(37, 31, 37);
+    border-style: inherit;
+    font-style: bold;
+    padding: 17px 0px 0px 0px;
+    color: white;
+    display: inline-block;
+    overflow: hidden;
+    width:100%;
+    position:fixed;
+    
+
+}
+h3{
+    color:rgb(70, 34, 106);
+}
+
+hr {
+    background-color: whitesmoke;
+    height: 0px;
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: black;
+    size: 140px;
+    width: 25%;
+}
+
+body {
+    background-color: #00092C;
+    margin:0;
+    background-image:url(ryuk.png)
+}
+
+.content {
+    max-width: 1000px;
+    margin: auto;
+    padding: 120px;
+    background-color: #DDDDDD;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-decoration-color: none;
+}
+
+a {
+    color: black;
+}
+
+b {
+    color: white;
+}
+img:hover{
+ 
+    
+    background-color:rgb(58, 26, 58);
+    
+}
