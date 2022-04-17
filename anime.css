@@ -32,11 +32,11 @@ hr {
 body {
     background-color: #00092C;
     margin:0;
-    background-image:url(ryuk.png)
+    
 }
 
 .content {
-    max-width: 1000px;
+    max-width: 70%;
     margin: auto;
     padding: 120px;
     background-color: #DDDDDD;
@@ -61,4 +61,7 @@ img:hover{
     
     background-color:rgb(58, 26, 58);
     
+}
+id{
+    color:#DDDDDD;
 }
